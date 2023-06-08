@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+</head>
+
+
+<!--This is for the top part of the screen -->
+ |
+<a href="/about/index.htm">Home</a> |
+<a href="/about/contact_us.htm">Contact</a> |
+<a href="/about/index.htm">About</a> |
+
+<!-- this is the welcome with a downward slide-->
+<Legend><H3><p style="color:black"><marquee behavior="slide" direction="down">Welcome to</p> </H3></Legend></marquee>
+<H1><p style="color:purple">
+<style>
+body {
+  font-family: 'Brush Script MT', cursive;
+}
+</style>
+
+
+<!--The main Heading which is underlined
+also a font feom the above code -->
+<div align="center"><h1><u>Voxcord Records</u></p></h1></div>
+<marquee behavior="slide" direction="up">
+
+<!-- Sub heading with sideways glide-->
+
+<H3><p style="color:black"> Voxcord Records is about innovative music and dynamic artists</p></H3> 
+</marquee> 
+<h2><u><p style"color:purple and Black">Top songs</u></h2>
+
+
+
+
+<marquee behavior="slide" direction="left">
+
+<h4><p style="color:black"> Best of me<br>
+Sherwayne Bester ft Frazia </h3><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> Touching the sky <br>
+Sherwayne Bester ft Ruben Rynhardt </h4><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> Grinding for my City <br>
+Sherwayne Bester ft Levi Purple </h4><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> Alright <br>
+Sherwayne Bester ft Gaani </h4><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> With you<br>
+Sherwayne Bester ft Becca</h4><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> I Can Make it <br>
+Sherwayne Bester ft Gesant </h4><button><a href=https://www.youtube.com>download</a></button>
+<h4><p style="color:black"> So High<br>
+Sherwayne Bester ft Frank-E </h4><button><a href=https://www.youtube.com>download</a></button></small>
+</marquee></div>
+
+<u><div align="center"><H2><p style="color:Blue">Artists</h2><br></u>
+
+
+
+<div align="center">
+
+
+<p style="color:purple">
+<div class="city">
+<h2>Sherwayne Bester</h2>
+<p></p>
+</div> 
+</div>
+
+<div align="center"><button><a href=https://www.youtube.com>Facebook page</a></button>
+<button><a href=https://www.google.com>Subscribe</a> </button><br>
+<br>
+
+<details>
+<h3><p style="color:purple">Biography of Sherwayne Bester</h3><br>
+
+<small><details><p style="color:black">
+<style>
+p  {
+  color: blue;
+  font-family: courier;
+  font-size: 100%;}
+  </style>
+  <h3>
+<p>Sherwayne Bester was born on 
+24th of July 1988 in Mitchell Plain and is the youngest of his 
+3 Brothers.1991 he moved with his mother to live in Elsies 
+with his Aunt Nancy for 2 years . 
+1993 he and his mother June Bester moved to Self-Help Belhar
+to live with his Aunt Elizabeth for 3 years. He was separated 
+from his 3 brothers until they got a flat in Chestnut Place Belhar 
+where he was reunited with his brothers . He also met his
+father <br>
+<br> 
+ Randall Keith Bester at the age of nine for the first time. 
+His interest in music spark from a young age
+when his brothers Marchell van Rooyen, Eugene van Rooyen 
+and Lindsay Bester played cassettes from the Hifi and rapping.
+During grade 4 in primary school  he use to battle rap against 
+a grade 7 student though his lost most of the battle's he
+continued to grow and started writing songs in grade 8. 
+His interest kept growing. He got interested in technical 
+side which is Studio producing and even in beat making 
+throughout high school and started with fruity loops 3.<br>
+<br>
+
+He attended every local stage he could find. And met his 
+producer Ruben Rynhardt 2012 and produced his songs and 
+1st mixtape called Rise above Circumstances. Ruben help 
+him as his producer even with live shows like with startstruck
+in 2016.<br>
+
+<br> 
+In 2016 Sherwayne entered Starstruck and not only grew his stage
+presence but he made history being the first rapper to ever 
+achieve contestant of the night as a rapper and also
+achieved the same contestant of the night the following week 
+heended the show as the last rapper in the top 8 and feels
+the show was rigged and knew he couldve win in. So he gave a 
+weak performance 
+and was kick out in the top 8 because he felt it was a waste
+of time if he is not gonna win. He still got 3 awards which 
+was the most of the evening. And was awarded the best 
+dressed,most creative and best performer.<br>
+<br>
+He organized a show in his community in 2018 on youth day
+and was in collaboration with different organization such
+ as Belhar outhreach Forum, PREECO, Smiling one, SAPS and 
+   Department of Health,Safety and Security and the 
+   honourable Minister Dan Plato.
+ There where a range of talent of local artists Feauturing 
+ Allen the Cargaurd and Local artist in and around the 
+ community of Belhar and has been a great success and 
+ have plan to do such events often in the future where 
+ he can invite the community to showcase their talents.
+As for him he believes this is his moment  rightnow. And 
+has his debut album  called "Colorful"<br>
+<br>
+ He did release his first song as a video on YouTube called 
+ 'I am a champion ft Ruben Rynhardt'afterward 'Duisende Meile'
+ then 'Welcome to Cape Town - Sherwayne Bester and his debut
+  single is "Kaapstad Laaitie" which he want to release to 
+  radio. His next album name 
+ is "Heartbreaks & Opmaak" and  "Trap Room" which he will 
+ release after his debut album " Colorful". His main goal is 
+ to show his community anything is possible.  He will always 
+ want to remain humble and unique from other artists and has
+  a passion for directing and editing videos as well</p> 
+  </details></H3>
+
+ <H2><p style="color: purple"> Songs</H2><br>
+
+
+<details>
+<small><h3><p style="color:purple"> Kaapstad Laaitie </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Welcome to Cape Town </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Garden of Love </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Best of me ft Frazia </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Touching the sky ft Ruben Rynhardt </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Grinding for my City ft Levi Purple </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> Alright ft Gaani </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> With you ft Becca</h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> I Can Make it ft Gesant </h3><button><a href=https://www.youtube.com>download</a></button>
+<h3><p style="color:purple"> So High ft Frank-E </h3><button><a href=https://www.youtube.com>download</a></button></small></details>
+
+
+<H2><p style="color:purple">Videos </H2>
+<details><h3><p style="color:purple"> Welcome to Cape Town </h3><button><a href=https://www.youtube.com>download</a></button>
+</details>
+
+<H2><p style="color:purple">Contact</H2>
+<h4><p style="color:blue">Facebook - Sherwayne Bester</h4>
+<h4><p style="color:black">TikTok - Sherwayne Bester</h4>
+<h4><p style="color:red">Email - voxcordrecords@gmail.com</h4></details>
+
+
+
+
+</details>
+
+<p style="color:purple">
+<div class="city">
+<h2>Druwie Boy</h2>
+<p></p>
+</div> 
+</div>
+
+<p style="color:purple">
+<div class="city">
+<h2>Samcro </h2>
+<p></p>
+</div> 
+</div>
+
+
+
+
+
+
+
+
+ 
+<u><h1><p style="color: Blue">Competitions</H1></u> 
+<body bgcolor="black">    
+<form>  
+ <details ><br>
+<label> Surname: </label>         
+<input type="text" name="firstname" size="15"/> <br> <br>  
+<label> First names: </label>     
+<input type="text" name="middlename" size="15"/> <br> <br>  
+<label> Stage Name: </label>         
+<input type="text" name="lastname" size="15"/> <br> <br>  
+ 
+  
+<label for="Date of Birth">Date of Birth:</label>
+<input type="date" id="Date of Birth" name="Date of Birth">
+  
+
+  
+</select>   
+<br>  
+<br>  
+<label> 
+Gender :
+</label>
+<select>
+<option value="Not Specify">Not Specify</option>
+<option value="Male">Male</option>
+<option value="Female">Female</option>
+</select>
+<br>  
+<br>  
+  
+<label>   
+Phone :  
+</label>  
+<input type="text" name="country code"  value="+27" size="2"/>   
+<input type="text" name="phone" size="10"/> <br> <br>  
+Address  
+<br>  
+<textarea cols="80" rows="5" value="address">  
+</textarea>  
+<br> <br>  
+Email:  
+<input type="email" id="email" name="email"/> <br>    
+<br> <br>  
+Password:  
+<input type="Password" id="pass" name="pass"> <br>   
+<br> <br>  
+Re-type password:  
+<input type="Password" id="repass" name="repass"> <br> <br>  
+<input type="button" value="Submit"/>  
+</form>  </details>
+
+
+
+
+
+
+
+<style>
+body {
+  font-family: 'Brush Script MT', cursive;
+}
+</style>
+
+
+
+<u><H1><p style="color:blue">Events</H1></u>
+
+<details>
+
+<html>
+<head>
+<style>
+.city {
+  background-color: purple;
+  color: white;
+  border: 2px solid blue;
+  margin: 20px;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+<button>
+<div class="City">
+<h2>Cape Town Art Youth day Special</h2>
+<p><h5>Chestnut Place Belhar</h5></p>
+<p><h5>16th June 2023</h5></p>
+</div> 
+</button>
+
+<button>
+<div class="City">
+<h2>50th anniversary Rastafarian Special</h2>
+<p><h5>Bellville South</h5></p>
+<p><h5>23rd July 2023</h5></p>
+</div>
+</button>
+
+<button>
+<div class="city">
+<h2>Radio Goodhope Freestyle with Sherwayne Bester</h2>
+<p style="color:black"><p><h5>Cape Town</h5></p>
+<p><h5>16th October 2023</h5></p>
+</div>
+</button>
+</details>
+<footer>
+      <div align="center">  <p>&copy; 2023 Voxcord Records. All rights reserved.</p>
+    </footer>
+
+</Fieldset>
+</Body>
+</HTML>
